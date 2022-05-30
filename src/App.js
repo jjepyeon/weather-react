@@ -6,6 +6,10 @@ export default function App() {
   return (
     <div className="App">
       <Weather />
+      <p>
+        <a href="https://github.com/jjepyeon/weather-react">Open-source code</a>
+        by Jane Pyeon
+      </p>
     </div>
   );
 }
