@@ -1,0 +1,19 @@
+.Description {
+  display: inline;
+}
+
+.Description h2 {
+  text-align: right;
+  font-size: 20px;
+  margin: 20px;
+  width: fit-content;
+  float: right;
+}
+
+.Description ul {
+  list-style: none;
+}
+
+.Description li {
+  text-align: right;
+}
